@@ -4,9 +4,9 @@ description: Update the backend url to connect.
 
 # 📝 Editing environment.ts
 
-## Awesome Feature One
+## Edit file
 
-This is the configuration file of the application. The below code block shows the different config settings in it:
+This is the [configuration file](https://github.com/arunjayarajan/Group2\_Nausicaa/blob/main/Code/Nausicaa.Green.Initiative.UI/global-green-initiative/src/environments/environment.ts) of the application. The below code block shows the different config settings in it:
 
 ```json
 // Some code
